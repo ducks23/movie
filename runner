@@ -1,0 +1,5 @@
+/usr/local/visit/bin/visit -cli -nowin -s basic.py
+# -cli: run with command line interface mode
+# -nowin: don't even bring up a visualization window!
+# -s: run the script that is the following argument (basic.py)
+
